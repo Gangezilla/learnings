@@ -63,7 +63,7 @@
 - Complex systems fail in complex ways. Relying on pre-production testing is ineffective in surfacing many issues.
 - There are a few ways of testing in prod, as described in this image:
 
-![Testing in production]("./testing-in-prod.png")
+![Testing in production](https://github.com/gangezilla/learnings/raw/master/observability/testing-in-prod.png "Testing in Prod")
 
 ### Chapter 4
 
